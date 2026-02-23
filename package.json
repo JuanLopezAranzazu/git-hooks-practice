@@ -1,0 +1,21 @@
+{
+  "name": "git-hooks-practice",
+  "version": "1.0.0",
+  "description": "A practice project for git hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "hooks",
+    "practice"
+  ],
+  "author": "Juan Esteban Lopez",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7"
+  }
+}
