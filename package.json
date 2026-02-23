@@ -10,7 +10,11 @@
   "keywords": [
     "git",
     "hooks",
-    "practice"
+    "practice",
+    "eslint",
+    "jest",
+    "lint-staged",
+    "husky"
   ],
   "author": "Juan Esteban Lopez",
   "license": "ISC",
